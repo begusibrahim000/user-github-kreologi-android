@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kreologi</string>
+    <string name="text_search">Cari pengguna GITHUB</string>
+
+    <string name="text_data_is_not_found">Akun github tidak ditemukan</string>
+    <string name="text_404">404</string>
+
+    <string name="text_api_rate_is_limit">Kami berusaha semaksimal mungkin untuk menyajikan akun github,kami akan mencoba lagi setelah 60 detik</string>
+    <string name="text_403">60</string>
+    <string name="text_please_waiting">Harap tunggu, pencarian kami sedang bekerja</string>
+    <string name="text_searching">Mencari</string>
+</resources>
